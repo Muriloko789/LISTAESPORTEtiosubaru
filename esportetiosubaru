@@ -21,3 +21,63 @@ https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TkCh4Aa.png" group-title="",Premier 4
 https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
+http://server.playhddigital.ml:80/hgyrtdtjnkhgyfd/nbhvvgftfgtyy/90
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
+http://50.7.34.155:2200/BR/Sportv_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate FHD
+http://50.7.34.155:2200/BR/Combate_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 FHD
+http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3
+http://50.7.34.155:2201/BR/ESPN2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="https://imgur.com/exEDct8.png" group-title="Canais | ESPORTES",ESPN EXTRA
+http://50.7.34.155:2201/BR/espnextra-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title="Canais | ESPORTES",Band Sports SD
+
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title=,Band Sports HD
+http://cdn.connectbr.com.br:80/BandSports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title="Canais | ESPORTES",Band Sports FHD
+http://50.7.34.155:2200/BR/Band_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="OFF" tvg-logo="https://imgur.com/QPqeAcj.png" group-title=,OFF
+http://50.7.34.155:2201/BR/OFF_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://imgur.com/NPCMbYc.png" group-title=,FOX SPORTS 2 
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/rMBQXOV.png" group-title=,Premiere Clubes
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title=,TNT SPORTS
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title=,TNT SPORTS 2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rSdruZe.png" group-title=,TNT SPORTS 3
+http://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8
