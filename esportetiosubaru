@@ -1,0 +1,23 @@
+#EXTINF:-1  tvg-logo="https://imgur.com/XmdQtD1.png" group-title="",SportTV PT 3
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/F0Z3H0W.png" group-title="",ELEVEN 1
+https://cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD,vxttoken=cGF0aFVSST0lMmZzaGxzJTJmTElWRSUyNEVsZXZlbl9TcG9ydHNfMV9IRCUyZiomZXhwaXJ5PTE2NDQxMjg0ODkmeDp1c2VyPTU2NTE0NTM1MyZ4OmlwPTE4NS4yNy4xMzQuMTkxLDNjNmYxNTEzNjhhNmJlYzBhZWFlMDA0OTYyNTc4ZTIwMWJhNzk2YzFkNjdlMzg2MDU4ZjVlZDZhZTZjZWU1NTA=/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1  tvg-logo="https://imgur.com/F0Z3H0W.png" group-title="",ELEVEN 2
+https://cdn-er-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD,vxttoken=cGF0aFVSST0lMmZzaGxzJTJmTElWRSUyNEVsZXZlbl9TcG9ydHNfMl9IRCUyZiomZXhwaXJ5PTE2NDQxMjg2MDImeDp1c2VyPTU2NTE0NTM1MyZ4OmlwPTE4NS4yNy4xMzQuMTkxLDc1ODRkMDAzMDIwMTViMTJmNWJkMjRjNzk3OWRkOTJiYWUwMDhiYTkxODRlMzcwYTgzNmVmNTkyY2U5NmZjZTE=/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
+#EXTINF:-1  tvg-logo="https://imgur.com/BCciK8b.png" group-title="",CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Agh8ko7.png" group-title="",Premier 1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rEExeyX.png" group-title="",Premier 2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9Czs6Ap.png" group-title="",Premier 3
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TkCh4Aa.png" group-title="",Premier 4
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
